@@ -12,7 +12,6 @@
       "background": "#efefef",
       "children": [
         {
-          {
                   "type": "Button",
                   "layout_height": "?Theme_AppCompat:actionBarSize",
                   "layout_width": "150dp",
