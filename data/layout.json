@@ -12,31 +12,6 @@
       "background": "#efefef",
       "children": [
         {
-                  "type": "Button",
-                  "layout_height": "?Theme_AppCompat:actionBarSize",
-                  "layout_width": "150dp",
-                  "gravity": "center",
-                  "layout_marginTop": "10dp",
-                  "text": "ADD TO CART",
-                  "textColor": "?Theme_AppCompat:actionMenuTextColor",
-                  "background": {
-                    "@": {
-                      "type": "ripple",
-                      "mask": "#aaaa99",
-                      "defaultBackground": "#aaaa99",
-                      "content": {
-                        "type": "shape",
-                        "shape": "rectangle",
-                        "children": [
-                          {
-                            "type": "solid",
-                            "color": "@{theme.color}"
-                          }
-                        ]
-                      },
-                      "color": "#ff0000"
-                    }
-                  },
           "type": "CardView",
           "layout_width": "match_parent",
           "layout_height": "wrap_content",
